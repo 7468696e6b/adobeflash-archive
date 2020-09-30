@@ -6,7 +6,7 @@ https://get.adobe.com/flashplayer/otherversions/
 version 32.0.0.433, downloaded 2020-09-30
 
 ## Windows 10/Windows 8
-See README for more info:
+See README for more info: [here](https://github.com/7468696e6b/adobeflash-archive/tree/master/windows10_windows8/README.md)
 
 ## Windows 7/Vista/XP
 See README for more info: [here](https://github.com/7468696e6b/adobeflash-archive/blob/master/windows7_vista_xp/README.md)
