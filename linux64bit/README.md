@@ -7,7 +7,7 @@ version 32.0.0.433, downloaded 2020-09-30
 ### FP 32.0 for Ubuntu (apt)
 
  - [original link](https://get.adobe.com/flashplayer/download/?installer=FP_32.0_for_Ubuntu_(apt)&stype=7706&standalone=1)
-<!-- - [download]()-->
+ - [download](apt:adobe-flashplugin?channel=$distro-partner)
  
 ### FP 32.0 for Linux 64-bit (YUM)
 
