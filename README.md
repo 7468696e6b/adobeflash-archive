@@ -15,7 +15,7 @@ See README for more info: [here](https://github.com/7468696e6b/adobeflash-archiv
 See README for more info: [here](https://github.com/7468696e6b/adobeflash-archive/blob/master/macosx10_10-10_15/README.md)
 
 ## Linux (64-bit)
-See README for more info:
+See README for more info: [here](https://github.com/7468696e6b/adobeflash-archive/blob/master/linux64bit/README.md)
 
 ## Linux (32-bit)
 See README for more info:
