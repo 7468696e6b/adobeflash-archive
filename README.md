@@ -5,11 +5,20 @@ https://get.adobe.com/flashplayer/otherversions/
 
 version 32.0.0.433, downloaded 2020-09-30
 
-## Mac OS X 10.10 - 10.15
-See README for more info: [here](https://github.com/7468696e6b/adobeflash-archive/blob/master/macosx10_10-10_15/README.md)
+## Windows 10/Windows 8
+See README for more info:
 
 ## Windows 7/Vista/XP
 See README for more info: [here](https://github.com/7468696e6b/adobeflash-archive/blob/master/windows7_vista_xp/README.md)
+
+## Mac OS X 10.10 - 10.15
+See README for more info: [here](https://github.com/7468696e6b/adobeflash-archive/blob/master/macosx10_10-10_15/README.md)
+
+## Linux (64-bit)
+See README for more info:
+
+## Linux (32-bit)
+See README for more info:
 
 ## System requirements
 https://www.adobe.com/products/flashplayer/tech-specs.html
