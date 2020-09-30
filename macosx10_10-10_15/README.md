@@ -1,0 +1,13 @@
+https://get.adobe.com/flashplayer/otherversions/
+
+version 32.0.0.433, downloaded 2020-09-30
+
+## Mac OS X 10.10 - 10.15
+
+### FP 32 Mac for Safari and Firefox - NPAPI
+
+original link: https://get.adobe.com/flashplayer/download/?installer=FP_32_Mac_for_Safari_and_Firefox_-_NPAPI&stype=7706&standalone=1
+
+### FP 32 Mac for Opera and Chromium - PPAPI
+
+original link: https://get.adobe.com/flashplayer/download/?installer=FP_32_Mac_for_Opera_and_Chromium_-_PPAPI&stype=7706&standalone=1
