@@ -6,8 +6,8 @@ version 32.0.0.433, downloaded 2020-09-30
 
 ### FP 32 for Opera and Chromium - PPAPI
 
- - [original link]()
- - [download]()
+ - [original link](https://get.adobe.com/flashplayer/download/?installer=FP_32_for_Opera_and_Chromium_-_PPAPI&os=Windows%2010&browser_type=KHTML&browser_dist=Chrome&dualoffer=false&mdualoffer=true&stype=7706&d=McAfee_Security_Scan_Plus&d=McAfee_Safe_Connect)
+ - [download](https://github.com/7468696e6b/adobeflash-archive/blob/master/windows10_windows8/flashplayer32pp_xa_install.exe?raw=true)
  
 ### FP 32 for Firefox - NPAPI
 
