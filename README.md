@@ -26,14 +26,17 @@ https://www.adobe.com/products/flashplayer/tech-specs.html
 ### Windows
    
 32- and 64-bit (unless noted): Microsoft® Windows® XP SP3 (32-bit), Windows Vista® (32-bit), Windows 7, Windows 8.1 and Windows 10
+
 Latest versions of Microsoft Internet Explorer, Microsoft Edge, Mozilla Firefox, Google Chrome and Opera
 
 ### Mac OS
  
 Mac OS X v10.10 or later
+
 Latest versions of Safari, Mozilla Firefox, Google Chrome, and Opera
 
 ### Linux
   
 YUM, TAR.GZ, RPM and APT packages for NPAPI and PPAPI
+
 Latest versions of Firefox or Google Chrome  
