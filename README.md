@@ -49,4 +49,9 @@ https://www.adobe.com/products/flashplayer/tech-specs.html
 ### Linux
   
  - YUM, TAR.GZ, RPM and APT packages for NPAPI and PPAPI
- - Latest versions of Firefox or Google Chrome  
+ - Latest versions of Firefox or Google Chrome
+ 
+ ## Other links that may be helpful
+ 
+ - Petition to open source the Flash player specification: https://github.com/open-source-flash/open-source-flash
+ - Open source implementation of Flash player: https://github.com/lightspark/lightspark 🌟
