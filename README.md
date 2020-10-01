@@ -1,7 +1,7 @@
 # Adobe Flash Player - archived installers
 Support for Adobe Flash Player will be removed in December of 2020 in accordance with the [Flash Player EOL](https://www.adobe.com/products/flashplayer/end-of-life.html) policy. 
 
-This repo contains backups of the installers for Adobe Flash. Use at your own risk.
+This repo contains backups of the installers for Adobe Flash. Use at your own risk. **Please note that Adobe will no longer support Adobe Flash Player after December 2020 and that you assume full responsibility for the usage of this software and the risks associated with using unsupported software.**
 
 Retrieved from https://get.adobe.com/flashplayer/otherversions/.
 
