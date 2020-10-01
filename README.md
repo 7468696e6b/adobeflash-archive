@@ -1,5 +1,5 @@
-# adobeflash-archive
-Support for Adobe Flash Player will be removed in December of 2020. This repo contains an archive of installers for Adobe Flash. Use at your own risk.
+# Adobe Flash Player - archived installers
+Support for Adobe Flash Player will be removed in December of 2020. This repo contains backups of the installers for Adobe Flash. Use at your own risk.
 
 https://get.adobe.com/flashplayer/otherversions/
 
