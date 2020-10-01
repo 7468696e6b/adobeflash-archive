@@ -28,7 +28,7 @@ Installed on more than 1.3 billion systems, Flash Player is the standard for del
 
 ## Terms & Conditions
 
-See the [Adobe Software Licensing Agreement](https://wwwimages2.adobe.com/www.adobe.com/content/dam/acom/en/legal/licenses-terms/pdf/PlatformClients_PC_WWEULA-en_US-20150407_1357.pdf).
+See the [Adobe Software Licensing Agreement](https://wwwimages2.adobe.com/www.adobe.com/content/dam/acom/en/legal/licenses-terms/pdf/PlatformClients_PC_WWEULA-en_US-20150407_1357.pdf). Archived from the original site on 2020-09-30 [here](https://github.com/7468696e6b/adobeflash-archive/blob/master/PlatformClients_PC_WWEULA-en_US-20150407_1357.pdf).
 
 ## System requirements
 https://www.adobe.com/products/flashplayer/tech-specs.html
