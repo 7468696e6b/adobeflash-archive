@@ -20,6 +20,16 @@ See README for more info: [here](https://github.com/7468696e6b/adobeflash-archiv
 ## Linux (32-bit)
 See README for more info: [here](https://github.com/7468696e6b/adobeflash-archive/tree/master/linux32bit/README.md)
 
+## About
+
+Adobe® Flash® Player is a lightweight browser plug-in and rich Internet application runtime that delivers consistent and engaging user experiences, stunning audio/video playback, and exciting gameplay.
+
+Installed on more than 1.3 billion systems, Flash Player is the standard for delivering high-impact, rich Web content.
+
+## Terms & Conditions
+
+See the [Adobe Software Licensing Agreement](https://wwwimages2.adobe.com/www.adobe.com/content/dam/acom/en/legal/licenses-terms/pdf/PlatformClients_PC_WWEULA-en_US-20150407_1357.pdf).
+
 ## System requirements
 https://www.adobe.com/products/flashplayer/tech-specs.html
 
