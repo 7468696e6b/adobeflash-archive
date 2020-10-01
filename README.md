@@ -59,4 +59,6 @@ https://www.adobe.com/products/flashplayer/tech-specs.html
  - Open source implementation of Flash player: https://github.com/lightspark/lightspark
  - Archived libraries of Flash games: https://bluemaxima.org/flashpoint/, https://github.com/RealLifeChihiro/flash-games
  - HTML5 video player with Flash support: https://github.com/videojs/video.js
- - 
+ - OpenFl open-source library that builds on the Flash specification: https://github.com/openfl/openfl
+ - GNU Glnash implementation: https://www.gnu.org/software/gnash/
+ 
