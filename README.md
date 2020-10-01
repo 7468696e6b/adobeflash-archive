@@ -3,7 +3,7 @@ Support for Adobe Flash Player will be removed in December of 2020 in accordance
 
 This repo contains backups of the installers for Adobe Flash. Use at your own risk.
 
-https://get.adobe.com/flashplayer/otherversions/
+Retrieved from https://get.adobe.com/flashplayer/otherversions/.
 
 version 32.0.0.433, downloaded 2020-09-30
 
