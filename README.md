@@ -7,20 +7,19 @@ Retrieved from https://get.adobe.com/flashplayer/otherversions/.
 
 version 32.0.0.433, downloaded 2020-09-30
 
-### Windows 10/Windows 8
-See README for more info: [here](https://github.com/7468696e6b/adobeflash-archive/tree/master/windows10_windows8/README.md)
+More info [here](https://github.com/7468696e6b/adobeflash-archive/tree/master/windows10_windows8)
 
 ### Windows 7/Vista/XP
-See README for more info: [here](https://github.com/7468696e6b/adobeflash-archive/blob/master/windows7_vista_xp/README.md)
+More info [here](https://github.com/7468696e6b/adobeflash-archive/blob/master/windows7_vista_xp)
 
 ### Mac OS X 10.10 - 10.15
-See README for more info: [here](https://github.com/7468696e6b/adobeflash-archive/blob/master/macosx10_10-10_15/README.md)
+More info [here](https://github.com/7468696e6b/adobeflash-archive/blob/master/macosx10_10-10_15)
 
 ### Linux (64-bit)
-See README for more info: [here](https://github.com/7468696e6b/adobeflash-archive/blob/master/linux64bit/README.md)
+More info [here](https://github.com/7468696e6b/adobeflash-archive/blob/master/linux64bit)
 
 ### Linux (32-bit)
-See README for more info: [here](https://github.com/7468696e6b/adobeflash-archive/tree/master/linux32bit/README.md)
+More info [here](https://github.com/7468696e6b/adobeflash-archive/tree/master/linux32bit)
 
 ## About
 
