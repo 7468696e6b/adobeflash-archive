@@ -58,3 +58,5 @@ https://www.adobe.com/products/flashplayer/tech-specs.html
  - Petition to open source the Flash player specification: https://github.com/open-source-flash/open-source-flash 🌟
  - Open source implementation of Flash player: https://github.com/lightspark/lightspark
  - Archived libraries of Flash games: https://bluemaxima.org/flashpoint/, https://github.com/RealLifeChihiro/flash-games
+ - HTML5 video player with Flash support: https://github.com/videojs/video.js
+ - 
