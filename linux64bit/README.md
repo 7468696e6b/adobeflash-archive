@@ -29,7 +29,7 @@ version 32.0.0.433, downloaded 2020-09-30
 ### FP 32.0 for Linux 64-bit (.rpm) - PPAPI
 
 - [original link](https://get.adobe.com/flashplayer/download/?installer=FP_32.0_for_Linux_64-bit_(.rpm)_-_PPAPI&stype=7706&standalone=1)
-- [download]()
+- [download](https://github.com/7468696e6b/adobeflash-archive/blob/master/linux64bit/flash-player-ppapi-32.0.0.433-release.x86_64.rpm?raw=true)
 
 ### FP 32.0 for Linux 64-bit (.rpm) - NPAPI
 
