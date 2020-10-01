@@ -53,5 +53,5 @@ https://www.adobe.com/products/flashplayer/tech-specs.html
  
  ## Other links that may be helpful
  
- - Petition to open source the Flash player specification: https://github.com/open-source-flash/open-source-flash
- - Open source implementation of Flash player: https://github.com/lightspark/lightspark 🌟
+ - Petition to open source the Flash player specification: https://github.com/open-source-flash/open-source-flash 🌟
+ - Open source implementation of Flash player: https://github.com/lightspark/lightspark
