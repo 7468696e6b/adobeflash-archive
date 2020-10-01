@@ -18,7 +18,7 @@ See README for more info: [here](https://github.com/7468696e6b/adobeflash-archiv
 See README for more info: [here](https://github.com/7468696e6b/adobeflash-archive/blob/master/linux64bit/README.md)
 
 ## Linux (32-bit)
-See README for more info:
+See README for more info: [here](https://github.com/7468696e6b/adobeflash-archive/tree/master/linux32bit/README.md)
 
 ## System requirements
 https://www.adobe.com/products/flashplayer/tech-specs.html
