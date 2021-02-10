@@ -7,6 +7,7 @@ This repo contains backups of the installers for Adobe Flash. Use at your own ri
 Retrieved from https://get.adobe.com/flashplayer/otherversions/.
 
 version 32.0.0.433, downloaded 2020-09-30
+⚠️ note that this version contains a time bomb which deactivates flash after January 2021
 
 ### Windows 10/Windows 8
 More info [here](https://github.com/7468696e6b/adobeflash-archive/tree/master/windows10_windows8)
