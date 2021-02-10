@@ -9,7 +9,7 @@ Retrieved from https://get.adobe.com/flashplayer/otherversions/.
 version 32.0.0.433, downloaded 2020-09-30
  - ⚠️ note that this version contains a time bomb which deactivates Adobe Flash after January 2021
  - ℹ️ there are debug downloads which continue to work https://www.adobe.com/support/flashplayer/debug_downloads.html, however these are standalone and may not be used within the browser (a SWF file is needed to run)
- - ℹ️ the version for China will still be supported for a while, however it may not work outside of China: https://www.flash.cn, see this issue (https://community.adobe.com/t5/flash-player/flash-player-will-still-work-in-mainland-china/td-p/11675603) 该网有中国版本flash，可以在中国大陆地区继续使用
+ - ℹ️ the version for China will still be supported for a while, however it may not work outside of China: https://www.flash.cn, see this issue (https://community.adobe.com/t5/flash-player/flash-player-will-still-work-in-mainland-china/td-p/11675603) 该网站有中国版本flash，可以在中国大陆地区继续使用
  
 ### Windows 10/Windows 8
 More info [here](https://github.com/7468696e6b/adobeflash-archive/tree/master/windows10_windows8)
