@@ -57,6 +57,7 @@ https://www.adobe.com/products/flashplayer/tech-specs.html
  
  - Petition to open source the Flash player specification: https://github.com/open-source-flash/open-source-flash 🌟
  - Open source implementation of Flash player: https://github.com/lightspark/lightspark
+ - Ruffle flash implementation (in Rust): https://github.com/ruffle-rs/ruffle
  - Archived libraries of Flash games: https://bluemaxima.org/flashpoint/, https://github.com/RealLifeChihiro/flash-games
  - HTML5 video player with Flash support: https://github.com/videojs/video.js
  - OpenFl open-source library that builds on the Flash specification: https://github.com/openfl/openfl
