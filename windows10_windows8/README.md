@@ -16,6 +16,8 @@ version 32.0.0.433, downloaded 2020-09-30
 
 ### Adobe Flash Player 32 (Win, Mac & Linux) standalone (aka projectors) players for Flex and Flash developers.
 (2021-06-22) via https://www.adobe.com/support/flashplayer/debug_downloads.html
+>  Your rights to use any Flash player, projector, standalone player, plug-in, runtime or ActiveX control provided to you below, shall be solely as set forth in the following link, http://www.adobe.com/go/flashplayer_usage. Unless and except as provided therein, you shall have no rights to use or distribute such software. 
+
 #### Flash Player projector
 - [original link](https://fpdownload.macromedia.com/pub/flashplayer/updaters/32/flashplayer_32_sa.exe)
 - [download](https://github.com/7468696e6b/adobeflash-archive/blob/master/windows10_windows8/flashplayer_32_sa.exe?raw=true)
