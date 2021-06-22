@@ -35,3 +35,13 @@ version 32.0.0.433, downloaded 2020-09-30
 
 - [original link](https://get.adobe.com/flashplayer/download/?installer=FP_32.0_for_Linux_64-bit_(.rpm)_-_NPAPI&stype=7706&standalone=1)
 - [download](https://github.com/7468696e6b/adobeflash-archive/blob/master/linux64bit/flash-player-npapi-32.0.0.433-release.x86_64.rpm?raw=true)
+
+### Adobe Flash Player 32 (Win, Mac & Linux) standalone (aka projectors) players for Flex and Flash developers.
+(2021-06-22) via https://www.adobe.com/support/flashplayer/debug_downloads.html
+
+#### Flash Player projector
+- [original link](https://fpdownload.macromedia.com/pub/flashplayer/updaters/32/flash_player_sa_linux.x86_64.tar.gz)
+- [download](https://github.com/7468696e6b/adobeflash-archive/blob/master/linux64bit/flash_player_sa_linux.x86_64.tar.gz?raw=true)
+#### Flash Player projector content debugger
+- [original link](https://fpdownload.macromedia.com/pub/flashplayer/updaters/32/flash_player_sa_linux_debug.x86_64.tar.gz)
+- [download](https://github.com/7468696e6b/adobeflash-archive/blob/master/linux64bit/flash_player_sa_linux_debug.x86_64.tar.gz?raw=true)
