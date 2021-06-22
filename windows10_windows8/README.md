@@ -13,3 +13,8 @@ version 32.0.0.433, downloaded 2020-09-30
 
 - [original link](https://get.adobe.com/flashplayer/download/?installer=FP_32_for_Firefox_-_NPAPI&os=Windows%2010&browser_type=Gecko&browser_dist=Firefox&dualoffer=false&mdualoffer=true&stype=7706&d=McAfee_Security_Scan_Plus&d=McAfee_Safe_Connect)
 - [download](https://github.com/7468696e6b/adobeflash-archive/blob/master/windows10_windows8/flashplayer32_xa_install.exe?raw=true)
+
+### Adobe Flash Player 32 (Win, Mac & Linux) standalone (aka projectors) players for Flex and Flash developers.
+#### Flash Player projector
+- [original link](https://fpdownload.macromedia.com/pub/flashplayer/updaters/32/flashplayer_32_sa.exe)
+- [download](https://github.com/7468696e6b/adobeflash-archive/blob/master/windows10_windows8/flashplayer_32_sa.exe?raw=true)
