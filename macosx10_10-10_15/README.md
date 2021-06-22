@@ -23,3 +23,6 @@ version 32.0.0.433, downloaded 2020-09-30
 #### Flash Player projector content debugger
 - [original link](https://fpdownload.macromedia.com/pub/flashplayer/updaters/32/flashplayer_32_sa_debug.dmg)
 - [download](https://github.com/7468696e6b/adobeflash-archive/blob/master/macosx10_10-10_15/flashplayer_32_sa_debug.dmg?raw=true)
+#### PlayerGlobal (.swc)
+- [original link](https://fpdownload.macromedia.com/get/flashplayer/updaters/32/playerglobal32_0.swc)
+- [download](https://github.com/7468696e6b/adobeflash-archive/blob/master/playerglobal32_0.swc?raw=true)
